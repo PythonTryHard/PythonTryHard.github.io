@@ -1,6 +1,6 @@
 +++
 title = "Step 0 - Setting your expectations"
-date = "2023-03-10T02:44:27+07:00"
+date = "2023-03-10T02:44:28+07:00"
 author = "PythonTryHard"
 authorTwitter = "" #do not include @
 cover = ""
